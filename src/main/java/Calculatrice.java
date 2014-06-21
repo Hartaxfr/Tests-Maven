@@ -22,7 +22,7 @@ public class Calculatrice {
     public static Integer div( Integer a, Integer b ){
         if ( a != null && b != null ){
             if ( b == 0 ){
-                throw new RuntimeException("Deviding by 0 is undefined");
+                return null;
             } else {
                 return a + b;
             }
