@@ -47,6 +47,11 @@ ul {
     transition:         0.5s;
 }
 
+#corbertura-its-in-3d span{
+	border-radius: 10px;
+	background-color: white;
+}
+
 #exemple-its-in-3d span,
 #exemple-its-in-3d b {
     display: inline-block;
@@ -100,7 +105,7 @@ h6 {
 span.square {
 	height: 100px;
 	width: 200px;
-	border-radius: 15px;
+	border-radius: 10px;
 	color: white;
 	text-align: center;
 	padding-top: 25px;
@@ -126,7 +131,20 @@ span.square {
 	background-color: #555;
 	padding: 20px;
 	font-size: 30px;
-	border-radius: 5px;
+	border-radius: 10px;
+	float: left;
+	margin-top: 40px;
+}
+
+#code-cobertura {
+	float: right;
+	margin-top: 73px;
+	background-color: white;
+	border-radius: 10px;
+}
+
+#example {
+	width: 1400px;
 }
 
 #code div.green, #code span.green{
@@ -152,4 +170,13 @@ span.square {
 
 .tab {
 	padding-left: 50px;
+}
+
+#example > h6 > strong {
+	padding-bottom: 25px;
+}
+
+.radius {
+	background-color: white;
+	border-radius: 10px;
 }
