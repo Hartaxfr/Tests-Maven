@@ -1,0 +1,155 @@
+#title-maven {
+	padding-left: 137px;
+}
+#title .try {
+	left: 0;
+}
+
+ul {
+	list-style: inherit;
+	padding-left: 70px;
+}
+
+#summary ul {
+	padding-left: 85px;
+	list-style-type: decimal;
+}
+
+#surefire-its-in-3d span,
+#surefire-its-in-3d b {
+    display: inline-block;
+    -webkit-transform: translateZ(40px);
+    -moz-transform:    translateZ(40px);
+    -ms-transform:     translateZ(40px);
+    -o-transform:      translateZ(40px);
+     transform:        translateZ(40px);
+
+    -webkit-transition: 0.5s;
+    -moz-transition:    0.5s;
+    -ms-transition:     0.5s;
+    -o-transition:      0.5s;
+    transition:         0.5s;
+}
+
+#corbertura-its-in-3d span,
+#corbertura-its-in-3d b {
+    display: inline-block;
+    -webkit-transform: translateZ(40px);
+    -moz-transform:    translateZ(40px);
+    -ms-transform:     translateZ(40px);
+    -o-transform:      translateZ(40px);
+     transform:        translateZ(40px);
+
+    -webkit-transition: 0.5s;
+    -moz-transition:    0.5s;
+    -ms-transition:     0.5s;
+    -o-transition:      0.5s;
+    transition:         0.5s;
+}
+
+#exemple-its-in-3d span,
+#exemple-its-in-3d b {
+    display: inline-block;
+    -webkit-transform: translateZ(40px);
+    -moz-transform:    translateZ(40px);
+    -ms-transform:     translateZ(40px);
+    -o-transform:      translateZ(40px);
+     transform:        translateZ(40px);
+
+    -webkit-transition: 0.5s;
+    -moz-transition:    0.5s;
+    -ms-transition:     0.5s;
+    -o-transition:      0.5s;
+    transition:         0.5s;
+}
+
+h6 {
+	padding: 0;
+	font-size: 65px;
+	padding-bottom: 18px;
+
+}
+
+.clear {
+	clear:both;
+}
+
+#report-letter-spacing {
+	letter-spacing: 6.4px;
+}
+
+#stat-letter-spacing {
+	letter-spacing: 4.5px;
+}
+
+#left {
+	padding-left: 90px;
+	padding-right: 119px;
+	border-right: 1px solid lightgray;
+}
+
+#right {
+	padding-right: 30px;
+}
+
+#square-container{
+	padding-top: 40px;
+	text-align: center;
+}
+
+span.square {
+	height: 100px;
+	width: 200px;
+	border-radius: 15px;
+	color: white;
+	text-align: center;
+	padding-top: 25px;
+	margin-right: 25px;
+}
+
+.green{
+	background-color: #32cf34;
+	color : green !important;
+}
+
+.red {
+	background-color: rgb(240,75,75);
+	color : rgb(156,17,17) !important;
+}
+
+.grey {
+	background-color: #aaa;
+	color : #666 !important;
+}
+
+#code {
+	background-color: #555;
+	padding: 20px;
+	font-size: 30px;
+	border-radius: 5px;
+}
+
+#code div.green, #code span.green{
+	background-color: inherit;
+	color: rgb(65, 175, 65)	;
+}
+
+#code span.white, #code div.white {
+	color:white;
+}
+
+#code span.orange, #code div.orange {
+	color: orange;	
+}
+
+#code span.yellow, #code div.yellow {
+	color:yellow;	
+}
+
+#code span.blue, #code div.blue {
+	color:blue;	
+}
+
+.tab {
+	padding-left: 50px;
+}
