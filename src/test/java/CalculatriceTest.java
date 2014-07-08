@@ -35,8 +35,6 @@ public class CalculatriceTest {
         div = Calculatrice.div(null, null);
         Assert.assertNull(div);
 
-        div = Calculatrice.div(4, 0);
-        Assert.assertNull(div);
     }
 }
 
