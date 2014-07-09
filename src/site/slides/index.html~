@@ -264,7 +264,7 @@
                 <ul>
                     <li>Code Coverage</li>
                     <li>Analyse each lines of the code</li>
-                    <li>Three different cases: </li>
+                    <li>Three different steps: </li>
                 </ul>
                 <div id="square-container">
                     <span class="square green glyphicon glyphicon-ok"></span>

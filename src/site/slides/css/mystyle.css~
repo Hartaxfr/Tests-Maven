@@ -2,10 +2,6 @@
 	padding-left: 137px;
 }
 
-#summary-test-tools-junit > ul > li {
-	font-size: 40px;
-}
-
 body {
 	background: url('../img/geometry2.png') !important;
 }
