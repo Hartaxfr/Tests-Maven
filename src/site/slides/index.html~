@@ -191,8 +191,12 @@
         <ul>
             <li>Management</li>
             <li>Test tools</li>
+<<<<<<< HEAD
 	    <li>Example</li>
             <li>Conclusion</li>   
+=======
+            <li>Example</li>   
+>>>>>>> a5394f73d389dfae0d8aedb48f9e19d79ea72b1d
         </ul>
         
         </p>
@@ -264,7 +268,7 @@
                 <ul>
                     <li>Code Coverage</li>
                     <li>Analyse each lines of the code</li>
-                    <li>Three different steps: </li>
+                    <li>Three different cases: </li>
                 </ul>
                 <div id="square-container">
                     <span class="square green glyphicon glyphicon-ok"></span>
@@ -304,8 +308,13 @@
 
     </div> -->
 
+<<<<<<< HEAD
     <div id="conclusion" class="step" data-x="-8000" data-y="4000" data-rotate="90" data-scale="4">
         <p><h6><strong>4. Conclusion</strong></h6>
+=======
+    <div id="conclusion" class="step" data-x="-6000" data-y="4000" data-rotate="90" data-scale="4">
+        <p><h6><strong>Conclusion</strong></h6>
+>>>>>>> a5394f73d389dfae0d8aedb48f9e19d79ea72b1d
             <ul style="padding-left:120px;">
                 <li>Tests are easy to set up</li>
                 <li>Assist tools exists: CheckStyle...</li>
